@@ -5,10 +5,13 @@
 
 ##System requirement:
 
-*brew install python*
-*pip install Django*
-*pip install djangorestframework*
-*pip install python-dateutil*
+'brew install python'
+
+'pip install Django'
+
+'pip install djangorestframework'
+
+'pip install python-dateutil'
 
 
 git clone git@github.com:donata001/Uberproject.git
