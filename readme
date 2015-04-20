@@ -6,6 +6,12 @@ pip install djangorestframework
 pip install python-dateutil
 
 
+git clone git@github.com:donata001/Uberproject.git
+goto /Uber/Udemand and run manage.py runserver
+
+and you are good to run the app!
+
+
 sample usage to upload your json file for training through a POST request:
 
     curl -i -X POST -H "Content-Type: multipart/form-data" -F "data=@sample.json" http://localhost:8000/uberdemand/upload
