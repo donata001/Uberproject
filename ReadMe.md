@@ -13,8 +13,8 @@ pip install djangorestframework
 
 pip install python-dateutil
 
-
 git clone git@github.com:donata001/Uberproject.git
+
 goto /Uberproject/Udemand and run python manage.py runserver
 
 and you are good to run the app!
