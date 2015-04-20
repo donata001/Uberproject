@@ -1,14 +1,14 @@
 # UberDemand Prediction
   
 **Author**: Jialin Yu
-**Date**: Apr.19, 2015
+**Date**: Apr.20, 2015
 
 ##System requirement:
 
-brew install python
-pip install Django
-pip install djangorestframework
-pip install python-dateutil
+*brew install python*
+*pip install Django*
+*pip install djangorestframework*
+*pip install python-dateutil*
 
 
 git clone git@github.com:donata001/Uberproject.git
